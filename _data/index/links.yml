@@ -1,18 +1,12 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Ivan
+  first_name: Alberico
+  desc: LinkedIn
+  website: https://www.linkedin.com/in/ivan-alberico-5793581a4/
+  email: ivanalberico1998@gmail.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: ivanalberico
+  first_name: 
+  desc: GitHub
+  website: https://github.com/ivanalberico/
+  email: ivanalberico1998@gmail.com
