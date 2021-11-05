@@ -53,8 +53,8 @@
   i18n: jalpc
   gh_user: ivanalberico
   repo: Advanced-Machine-Learning-ETH
-  img: /static/assets/img/landing/projects_imgs/aml.png
-  desc: Graded projects of the course "Advanced Machine Learning", ETH Zürich (Fall 2020). (1) Brain age prediction using MRI features. (2) Disease classification from image features. (3) Heart rhythm classification from raw ECG signals. (4) Sleep staging classification from EEG/EMG.
+  img: /static/assets/img/landing/projects_imgs/aml3.png
+  desc: Graded projects of the course "Advanced Machine Learning", ETH Zürich (Fall 2020). The project list is the following: (1) Brain age prediction using MRI features. (2) Disease classification from image features. (3) Heart rhythm classification from raw ECG signals. (4) Sleep staging classification from EEG/EMG.
 
 - name: Probabilistic Artificial Intelligence course projects
   i18n: jalpc
