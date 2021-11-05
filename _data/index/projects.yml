@@ -42,22 +42,6 @@
   img: /static/assets/img/landing/projects_imgs/skaterBlob.png
   desc: Virtual Reality I course project, ETH Zürich (Spring 2021). The project consists in the implementation of a skateboarding game using Unity3D and Blender.
 
-- name: Advanced Machine Learning course projects
-  i18n: jalpc
-  gh_user: ivanalberico
-  repo: Advanced-Machine-Learning-ETH
-  img: /static/assets/img/landing/projects_imgs/aml3.png
-  desc: Advanced Machine Learning course projects, ETH Zürich (Fall 2020). The project list is the following 
-  
-  #(1) Brain age prediction using MRI features. (2) Disease classification from image features. (3) Heart rhythm classification from raw ECG signals. (4) Sleep staging classification from EEG/EMG.
-
-- name: Hybrid Extended Kalman Filter and Particle Filter
-  i18n: jalpc
-  gh_user: ivanalberico
-  repo: Recursive-Estimation-ETH
-  img: /static/assets/img/landing/projects_imgs/Robot-navigation.jpg
-  desc: Recursive Estimation course project, ETH Zürich (Spring 2021). The project consists in the implementation of an Hybrid Extended Kalman Filter to estimate the multiple states of a boat system and implementation of a Particle Filter to localize a robot in a partially known environment.
-
 - name: Probabilistic Artificial Intelligence course projects
   i18n: jalpc
   gh_user: ivanalberico
@@ -72,3 +56,17 @@
   img: /static/assets/img/landing/projects_imgs/computer-vision.png
   desc: Computer Vision course projects, ETH Zürich (Fall 2020). The project list is the following (1) Camera Calibration. (2) Harris Corner Detector and Features Extraction/Matching. (3) Particle Filter and Monte Carlo Localization. (4) Model Fitting and Multiple View Geometry. (5) Image Segmentation. (6) Stereo Matching. (7) Structure from Motion. (8) Shape Context and Shape Matching. (9) Condensation Tracker. (10) Image Categorization. 
   
+
+- name: Advanced Machine Learning course projects
+  i18n: jalpc
+  gh_user: ivanalberico
+  repo: Advanced-Machine-Learning-ETH
+  img: /static/assets/img/landing/projects_imgs/aml3.png
+  desc: Advanced Machine Learning course projects, ETH Zürich (Fall 2020). The project list is the following (1) Brain age prediction using MRI features. (2) Disease classification from image features. (3) Heart rhythm classification from raw ECG signals. (4) Sleep staging classification from EEG/EMG.
+
+- name: Hybrid Extended Kalman Filter and Particle Filter
+  i18n: jalpc
+  gh_user: ivanalberico
+  repo: Recursive-Estimation-ETH
+  img: /static/assets/img/landing/projects_imgs/Robot-navigation.jpg
+  desc: Recursive Estimation course project, ETH Zürich (Spring 2021). The project consists in the implementation of an Hybrid Extended Kalman Filter to estimate the multiple states of a boat system and implementation of a Particle Filter to localize a robot in a partially known environment.
