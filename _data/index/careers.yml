@@ -29,7 +29,7 @@
     i18n: company_b_job
   icon: fa-plus-square
   
- - name:
+- name:
     detail: BSc in Automation Engineering, Alma Mater Studiorum (University of Bologna)
     i18n: company_c
   desc:
@@ -43,7 +43,7 @@
     i18n: company_c_job
   icon: fa-plus-square
   
-   - name:
+- name:
     detail: Double Degree Program, Tongji University Shanghai
     i18n: company_d
   desc:
