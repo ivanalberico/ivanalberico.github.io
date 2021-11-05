@@ -1,6 +1,18 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: Learning to Generate Events using Spiking Neural Networks (ongoing project)
+  i18n: jalpc
+  img: /static/assets/img/landing/projects_imgs/learning_to_generate_events.png
+  desc: Semester Project with the Robotics and Perception Group (RPG), under the supervision of Professor Davide Scaramuzza and the PhD students Daniel Gehrig and Mathias Gehrig. The goal of the project is to design a learning-based solution that converts any existing video dataset recorded with conventional cameras to synthetic event data, using Spiking Neural Networks.
+
+- name: Instinctive Robot Control via Hololens2 (ongoing project)
+  i18n: jalpc
+  img: /static/assets/img/landing/projects_imgs/HOLOLENS-2.png
+  desc: Mixed Reality course project, ETH Zürich (Fall 2021). The goal of the project is to develop an intuitive mixed reality (MR) interface on a Microsoft Hololens 2 (HL2),with which the user should be able to remotely control a robot arm and perform basic assembly tasks using handand eye tracking.
+
+
 - name: End-To-End-Self-Supervised-SLAM
   url: https://www.linkedin.com/in/ivan-alberico-5793581a4/detail/treasury/education:673317205/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAC-_8i0B0Z25y7ZE-CHu8YKTpMxpcMLKy48%2C1635473655417)&section=education%3A673317205&treasuryCount=1
   i18n: jalpc
