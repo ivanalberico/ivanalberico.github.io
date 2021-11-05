@@ -5,12 +5,12 @@
 - name: Learning to Generate Events using Spiking Neural Networks (ongoing project)
   i18n: jalpc
   img: /static/assets/img/landing/projects_imgs/learning_to_generate_events.png
-  desc: Semester Project with the Robotics and Perception Group (RPG), under the supervision of Professor Davide Scaramuzza and the PhD students Daniel Gehrig and Mathias Gehrig. The goal of the project is to design a learning-based solution that converts any existing video dataset recorded with conventional cameras to synthetic event data, using Spiking Neural Networks.
+  desc: Semester Project with the Robotics and Perception Group (RPG), under the supervision of Professor Davide Scaramuzza and the PhD students Daniel Gehrig and Mathias Gehrig. The goal of the project is to design a learning-based solution that converts any existing video dataset recorded with conventional cameras to synthetic event data, using Spiking Neural Networks, which process information conveyed as temporal spikes.
 
 - name: Instinctive Robot Control via Hololens2 (ongoing project)
   i18n: jalpc
   img: /static/assets/img/landing/projects_imgs/HOLOLENS-2.png
-  desc: Mixed Reality course project, ETH Zürich (Fall 2021). The goal of the project is to develop an intuitive mixed reality (MR) interface on a Microsoft Hololens 2 (HL2),with which the user should be able to remotely control a robot arm and perform basic assembly tasks using handand eye tracking.
+  desc: Mixed Reality course project, ETH Zürich (Fall 2021). The goal of the project is to develop an intuitive mixed reality interface on a Microsoft Hololens 2, with which the user should be able to remotely control a robot arm and perform basic assembly tasks using hand and eye tracking. The project requires the use of C#/Unity/MRTK for writing and uploading code to the HL2, ROS for tele-communicating with the physical robot and OpenCV for estimating objects poses in the physical environment and mapping them to the MR environment of the user.
 
 
 - name: End-To-End-Self-Supervised-SLAM
