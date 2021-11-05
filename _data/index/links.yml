@@ -1,6 +1,12 @@
 # links section data
 - last_name: Ivan
   first_name: Alberico
+  desc: Instagram
+  website: https://www.instagram.com/ivan_alberico/
+  email: ivanalberico1998@gmail.com
+
+- last_name: Ivan
+  first_name: Alberico
   desc: LinkedIn
   website: https://www.linkedin.com/in/ivan-alberico-5793581a4/
   email: ivanalberico1998@gmail.com
