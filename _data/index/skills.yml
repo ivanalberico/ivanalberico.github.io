@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Machine Learing, Python, ROS, Computer Vision, PyTorch, C/C++, Unity3D, C#, LabVIEW, MATLAB & Simulink, Latex
-percentage: 100, 35, 65, 80, 70, 90, 50, 80, 20, 30, 90, 45
+aspects: Python, C/C++, ROS, C#, MATLAB & Simulink, LabVIEW, Computer Vision, Machine Learing, PyTorch, Unity3D, GitHub, Latex
+percentage: 100, 70, 60, 70, 90, 85, 100, 80, 90, 80, 80, 60
