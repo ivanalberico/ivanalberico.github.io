@@ -1,12 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: End-To-End-Self-Supervised-SLAM
+  url: https://www.linkedin.com/in/ivan-alberico-5793581a4/detail/treasury/education:673317205/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAC-_8i0B0Z25y7ZE-CHu8YKTpMxpcMLKy48%2C1635473655417)&section=education%3A673317205&treasuryCount=1
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
+  gh_user: ivanalberico
+  repo: End-To-End-Self-Supervised-SLAM
+  img: /static/assets/img/landing/projects_imgs/end2endSSS.png
+  desc: 3D Vision course project, ETH Zürich (Spring 2021). The project was supervised by Google Research Interns. The goal of this project is to use an online adaptation module to overcome the domain shift  issue in dense reconstruction and build a fully differentiable SLAM pipeline that can be optimized End-2-End. We propose to combine the SLAM framework of GradSLAM with a self-supervised depth prediction network, to optimize a SLAM pipeline for real-time dense reconstruction on totally unseen scenes.
 
 - name: Python
   i18n: cpython
