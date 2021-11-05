@@ -40,7 +40,7 @@
   gh_user: ivanalberico
   repo: Virtual-Reality1-ETH-SkaterBlobGame
   img: /static/assets/img/landing/projects_imgs/skaterBlob.png
-  desc: Virtual Reality I course project, ETH Zürich (Spring 2021). The project consists in the implementation of a skateboarding game using Unity3D and Blender.
+  desc: Virtual Reality I course project, ETH Zürich (Spring 2021). The project consists in the implementation of a skateboarding game using Unity3D and Blender. The game contains different levels and the whole level design is coded in C# interfacing with Unity.
 
 - name: Probabilistic Artificial Intelligence course projects
   i18n: jalpc
