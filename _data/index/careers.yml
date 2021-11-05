@@ -4,7 +4,7 @@
     detail: MSc in Robotics, System and Control, ETH Zürich
     i18n: company_a
   desc:
-    detail: I am currently studying for my master in Robotics, Systems and Control at ETH Zürich. Main focus on Computer Vision, Machine Learning and Robots Navigation.
+    detail: I am currently studying for my Master in Robotics, Systems and Control at ETH Zürich. Main focus on Computer Vision, Machine Learning and Robot Navigation.
     i18n: company_a_desc
   date:
     detail: September 2020
@@ -28,3 +28,33 @@
     detail: Teaching Assistant
     i18n: company_b_job
   icon: fa-plus-square
+  
+ - name:
+    detail: BSc in Automation Engineering, Alma Mater Studiorum (University of Bologna)
+    i18n: company_c
+  desc:
+    detail: Graduated with honors in Automation Engineering at Alma Mater Studiorum - University of Bologna. Main focus on Control theory, Robotics, Mechanics and Electronics.
+    i18n: company_c_desc
+  date:
+    detail: Sep. 2017 - July 2020
+    i18n: company_c_date
+  job:
+    detail: Bachelor of Science
+    i18n: company_c_job
+  icon: fa-plus-square
+  
+   - name:
+    detail: Double Degree Program, Tongji University Shanghai
+    i18n: company_d
+  desc:
+    detail: I spent the whole second year of my Bachelor's degree in Shanghai, where I had the opportunity to challenge myself with a brand-new environment and interact with brilliant students coming from all over the world, which was incredibly stimulating from both a personal and academic point of view.
+    i18n: company_d_desc
+  date:
+    detail: Sep. 2018 - July 2019
+    i18n: company_d_date
+  job:
+    detail: Bachelor of Science
+    i18n: company_d_job
+  icon: fa-plus-square
+
+
