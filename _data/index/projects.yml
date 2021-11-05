@@ -14,11 +14,18 @@
   gh_user: ivanalberico
   repo: Deep-Learning-for-Autonomous-Driving-ETH
   img: /static/assets/img/landing/projects_imgs/multi-task-learning.png
-  desc: The goal of the project is to build Multi-Task Learning (MTL) architectures for dense prediction tasks, i.e. semantic segmentation and monocular depth estimation, exploiting joint architectures, branched architectures, and task distillation.
+  desc: Deep Learning for Autonomous Driving course project, ETH Zürich (Spring 2021). The goal of the project is to build Multi-Task Learning (MTL) architectures for dense prediction tasks, i.e. semantic segmentation and monocular depth estimation in autonomous driving scenes, exploiting joint architectures, branched architectures, and task distillation.
 
 - name: 3D Object Detection from Lidar Point Clouds
   i18n: jalpc
   gh_user: ivanalberico
   repo: Deep-Learning-for-Autonomous-Driving-ETH
   img: /static/assets/img/landing/projects_imgs/3D_object_detection.png
-  desc: The goal of the project is to build a 2-stage 3D object detector to detect vehicles in autonomous driving scenes, i.e. drawing 3D bounding boxes around each vehicle. While Project 2 was based on 2D images, in this case irregular 3D point cloud data are exploited to detect vehicles.
+  desc: Deep Learning for Autonomous Driving course project, ETH Zürich (Spring 2021). The goal of the project is to build a 2-stage 3D object detector to detect vehicles in autonomous driving scenes, i.e. drawing 3D bounding boxes around each vehicle. Irregular 3D point cloud data are exploited to detect vehicles.
+
+- name: SkaterBlob game on Unity3D
+  i18n: jalpc
+  gh_user: ivanalberico
+  repo: Virtual-Reality1-ETH-SkaterBlobGame
+  img: /static/assets/img/landing/projects_imgs/skaterBlob.png
+  desc: Virtual Reality I course project, ETH Zürich (Spring 2021). The project consists in the implementation of a skateboarding game using Unity3D and Blender.
