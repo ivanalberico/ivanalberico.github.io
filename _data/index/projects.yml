@@ -2,12 +2,12 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Learning to Generate Events using Spiking Neural Networks (ongoing project)
+- name: Learning to Generate Events using Spiking Neural Networks
   i18n: jalpc
   img: /static/assets/img/landing/projects_imgs/learning_to_generate_events.jpg
   desc: Semester Project with the Robotics and Perception Group (RPG), under the supervision of Professor Davide Scaramuzza and the PhD students Daniel Gehrig and Mathias Gehrig. The goal of the project is to design a learning-based solution that converts any existing video dataset recorded with conventional cameras to synthetic event data, using Spiking Neural Networks, which process information conveyed as temporal spikes.
 
-- name: Instinctive Robot Control via Hololens2 (ongoing project)
+- name: Instinctive Robot Control via Hololens2
   i18n: jalpc
   img: /static/assets/img/landing/projects_imgs/HOLOLENS-2.jpg
   desc: Mixed Reality course project, ETH Zürich (Fall 2021). The goal of the project is to develop an intuitive mixed reality interface on a Microsoft Hololens 2, with which the user should be able to remotely control a robot arm and perform basic assembly tasks using hand and eye tracking. The project requires the use of C#/Unity/MRTK for interfacing with the HL2, ROS for tele-communicating with the physical robot and OpenCV for estimating objects poses in the physical environment and mapping them to the MR environment of the user.
